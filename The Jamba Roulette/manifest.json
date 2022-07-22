@@ -1,0 +1,14 @@
+{
+   "background": {
+      "service_worker": "back.js"
+   },
+   "description": "There is 1 in 50 chance that a new tab and will jumpscare you.",
+   "icons": {
+      "48": "icons/jamba48.png",
+      "96": "icons/jamba96.png"
+   },
+   "manifest_version": 3,
+   "name": "The Jamba Roulette",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
