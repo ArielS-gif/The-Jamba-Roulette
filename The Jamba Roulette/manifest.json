@@ -2,7 +2,7 @@
    "background": {
       "service_worker": "back.js"
    },
-   "description": "There is 1 in 50 chance that a new tab and will jumpscare you.",
+   "description": "There is 1 in 50 chance that a new tab will jumpscare you.",
    "icons": {
       "48": "icons/jamba48.png",
       "96": "icons/jamba96.png"
